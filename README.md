@@ -81,13 +81,12 @@ Step 4: Root Cause Analysis
 
 Step 5: SQL/Python/Queries (using Power Query in Power BI)
 
-5.1. Write Power Query code to:
+5.1. Write Power Query code to: 
 
-# Final Conclusion
-
-Summarize satisfaction scores by different attributes (e.g., route, class).
+Summarize satisfaction scores by different attributes.
 Calculate the percentage of satisfied customers during summer months.
 Analyze pre-order and inventory data to identify any issues.
 
+# Final Conclusion
 
 By using Power BI for our analysis and presentation, I have created interactive dashboards and reports that enable stakeholders to explore the data and gain a better understanding of the issues related to F&B service satisfaction. This approach combines data analysis and visualization to drive data-informed decision-making for United Airlines.
